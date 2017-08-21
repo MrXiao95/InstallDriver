@@ -23,7 +23,7 @@
 *.lib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
 
@@ -77,3 +77,21 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.sdf
+InstallDriver.v12.suo
+*.ilk
+Debug/InstallDriver.pdb
+*.ipch
+InstallDriver.VC.db
+/Debug/*
+/ipch/*
+/InstallDriver/Debug/*
+/InstallDriver/Release/*
+InstallDriver.VC.VC.opendb
+*.aps
+*.suo
+*.opensdf
+*.iobj
+Release/InstallDriver.ipdb
+*.pdb
+*.user
